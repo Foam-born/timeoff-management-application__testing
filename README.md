@@ -23,4 +23,6 @@ https://github.com/timeoff-management/timeoff-management-application
 
 
 
-*Please note: :warning: this is not the final, full-scale project intended to fulfill the application testing task. It was completed voluntarily and serves to demonstrate my skills and knowledge.*
+*Please note :warning: 
+
+this is not the final, full-scale project intended to fulfill the application testing task. It was completed voluntarily and serves to demonstrate my skills and knowledge.*
