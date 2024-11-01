@@ -5,4 +5,4 @@ https://github.com/timeoff-management/timeoff-management-application
 
 ### Test documentation 
 
-- [Description_of_TimeOff.Management.drawio](Description_of_TimeOff.Management.drawio.md)
+- [Description_of_TimeOff.Management.drawio](Description_of_TimeOff.Management.drawio)
