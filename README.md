@@ -3,7 +3,7 @@ Testing project for open-source web application "TimeOff.Management"
 https://github.com/timeoff-management/timeoff-management-application
 
 
-### Test documentation 
+## Test documentation 
 
 - [Description_of_TimeOff.Management.jpg](Description_of_TimeOff.Management.jpg) - the important part of the test documentation which includes the graphic schemes of authorization behavior, the state-transition diagrams and the description of the app interface ([the original file's](Description_of_TimeOff.Management.drawio) extention is drawio and opens with Draw.io)   
 
@@ -21,4 +21,4 @@ https://github.com/timeoff-management/timeoff-management-application
 
 
 
- # *Please note:* _this is not the final, full-scale project intended to fulfill the application testing task. It was completed voluntarily and serves to demonstrate my skills and knowledge._
+ ### **Please note:** _this is not the final, full-scale project intended to fulfill the application testing task. It was completed voluntarily and serves to demonstrate my skills and knowledge._
