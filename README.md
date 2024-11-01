@@ -18,3 +18,7 @@ https://github.com/timeoff-management/timeoff-management-application
   - Traceability matrix
 
  - [Google drive](https://drive.google.com/drive/folders/13vFUtBJLVdsQXlyEmhoB7xfzSVEVWCKL?dmr=1&ec=wgc-drive-hero-goto) with all of the screenshots
+
+
+
+ # *Please note:* _this is not the final, full-scale project intended to fulfill the application testing task. It was completed voluntarily and serves to demonstrate my skills and knowledge._
