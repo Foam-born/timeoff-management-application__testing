@@ -10,9 +10,11 @@ https://github.com/timeoff-management/timeoff-management-application
 - [Test plan](Test_Plan_of_TimeOff.Management.doc)
 
 - [Testing_of_TimeOff.Management](Testing_of_TimeOff.Management.xlsx) - the main testing file opens in Excel and contains:
- - Requirements
- - Test cases
- - Checklist
- - Bag reports
- - Smoke testing checklist
- - Traceability matrix
+  - Requirements
+  - Test cases
+  - Checklist
+  - Bag reports
+  - Smoke testing checklist
+  - Traceability matrix
+
+ - [Google drive](https://drive.google.com/drive/folders/13vFUtBJLVdsQXlyEmhoB7xfzSVEVWCKL?dmr=1&ec=wgc-drive-hero-goto) with all of the screenshots
