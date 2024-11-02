@@ -19,6 +19,8 @@ https://github.com/timeoff-management/timeoff-management-application
 
  - [Google drive](https://drive.google.com/drive/folders/13vFUtBJLVdsQXlyEmhoB7xfzSVEVWCKL?dmr=1&ec=wgc-drive-hero-goto) with all of the screenshots
 
+ - [Test report](Test_Report_of_TimeOff.Management.doc)
+
 
 
 
